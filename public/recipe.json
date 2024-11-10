@@ -1,0 +1,97 @@
+{
+    "recipes": [
+        {
+            "recipe_image": "https://i.ibb.co.com/8Kqwzx2/salad.jpg",
+            "recipe_id": "01",
+            "recipe_name": "Chicken Caesar Salad",
+            "short_description": "A quick and flavorful Chicken Caesar Salad with fresh vegetables.",
+            "ingredients": [
+                "200 g quinoa",
+                "1 cucumber",
+                "1 red bell pepper",
+                "50 g cherry tomatoes",
+                "2 tbsp olive oil",
+                "1 tbsp lemon juice"
+            ],
+            "preparing_time": "30 min",
+            "calories": "320 calories"
+        },
+        {
+            "recipe_image": "https://i.ibb.co.com/B6VYWyQ/chicken.jpg",
+            "recipe_id": "02",
+            "recipe_name": "Chicken",
+            "short_description": "Chicken stir-fry with fresh toppings and spices.",
+            "ingredients": [
+                "550 g chicken",
+                "120 ml soy sauce",
+                "1 red bell pepper",
+                "100 g broccoli",
+                "1 onion"
+            ],
+            "preparing_time": "20 min",
+            "calories": "290 calories"
+        },
+        {
+            "recipe_image": "https://i.ibb.co.com/vXP956B/burger.jpg",
+            "recipe_id": "03",
+            "recipe_name": "Burger",
+            "short_description": "Creamy Burger with rich parmesan sauce.",
+            "ingredients": [
+                "300 g bread",
+                "1 tbsp chili sauce",
+                "1 green bell pepper",
+                "1 zucchini",
+                "100 g carrots",
+                "2 garlic cloves"
+            ],
+            "preparing_time": "25 min",
+            "calories": "450 calories"
+        },
+        {
+            "recipe_image": "https://i.ibb.co.com/FxpJJdy/stake.jpg",
+            "recipe_id": "04",
+            "recipe_name": "Stake",
+            "short_description": "A healthy, fresh, and colorful quinoa salad with mixed vegetables.",
+            "ingredients": [
+                "300 g ground beef",
+                "1 tbsp taco seasoning",
+                "8 taco shells",
+                "100 g shredded cheese",
+                "50 g lettuce"
+            ],
+            "preparing_time": "15 min",
+            "calories": "220 calories"
+        },
+        {
+            "recipe_image": "https://i.ibb.co.com/XYz186F/desert.jpg",
+            "recipe_id": "05",
+            "recipe_name": "Classic Pancakes",
+            "short_description": "Fluffy and delicious pancakes, perfect for breakfast.",
+            "ingredients": [
+                "200 g flour",
+                "2 tsp baking powder",
+                "250 ml milk",
+                "1 egg",
+                "1 tbsp butter"
+            ],
+            "preparing_time": "20 min",
+            "calories": "350 calories"
+        },
+        {
+            "recipe_image": "https://i.ibb.co.com/mqZ3Zj8/pizza.jpg",
+            "recipe_id": "06",
+            "recipe_name": "Pizza",
+            "short_description": "A spicy, flavorful tofu stir fry with vegetables.",
+            "ingredients": [
+                "300 g ",
+                "1 tbsp chili sauce",
+                "1 green bell pepper",
+                "1 zucchini",
+                "100 g carrots",
+                "2 tbsp soy sauce"
+            ],
+            "preparing_time": "25 min",
+            "calories": "280 calories"
+        }
+    ]
+}

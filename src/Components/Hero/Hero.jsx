@@ -5,14 +5,14 @@ const BgStyle = {
     backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
-    width: "95%",
+    width: "92%",
     height: "100%",
 
 
 };
 const Hero = () => {
     return (
-        <div style={BgStyle} className="mx-4 my-3 rounded">
+        <div style={BgStyle} className="ml-14 my-3 rounded">
             <div className="bg-slate-800/40 border-solid border-2 rounded-md">
                 <div className="container min-h-[650px] flex items-center">
                     <div className="w-3/4 mx-auto text-center text-white p-4 space-y-5">

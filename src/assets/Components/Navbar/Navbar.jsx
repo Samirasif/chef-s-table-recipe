@@ -9,7 +9,7 @@ const Navbar = () => {
 
             <ul className='flex list-none text-center gap-8 text-2xl text-gray-600 cursor-pointer'>
                 <li>Home</li>
-                <li>Recipies</li>
+                <li>Recipes</li>
                 <li>About</li>
                 <li>Search</li>
             </ul>
